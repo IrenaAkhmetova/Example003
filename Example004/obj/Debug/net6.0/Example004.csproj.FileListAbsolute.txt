@@ -1,0 +1,15 @@
+F:\языки програмирования\Example004\bin\Debug\net6.0\Example004.exe
+F:\языки програмирования\Example004\bin\Debug\net6.0\Example004.deps.json
+F:\языки програмирования\Example004\bin\Debug\net6.0\Example004.runtimeconfig.json
+F:\языки програмирования\Example004\bin\Debug\net6.0\Example004.dll
+F:\языки програмирования\Example004\bin\Debug\net6.0\Example004.pdb
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.csproj.AssemblyReference.cache
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.GeneratedMSBuildEditorConfig.editorconfig
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.AssemblyInfoInputs.cache
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.AssemblyInfo.cs
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.csproj.CoreCompileInputs.cache
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.dll
+F:\языки програмирования\Example004\obj\Debug\net6.0\refint\Example004.dll
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.pdb
+F:\языки програмирования\Example004\obj\Debug\net6.0\Example004.genruntimeconfig.cache
+F:\языки програмирования\Example004\obj\Debug\net6.0\ref\Example004.dll
