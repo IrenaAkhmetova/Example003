@@ -1,0 +1,15 @@
+F:\языки програмирования\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+F:\языки програмирования\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+F:\языки програмирования\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+F:\языки програмирования\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+F:\языки програмирования\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+F:\языки програмирования\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
