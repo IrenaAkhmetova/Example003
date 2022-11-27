@@ -1,0 +1,15 @@
+F:\языки програмирования\Exampl007_Magic\bin\Debug\net6.0\Exampl007_Magic.exe
+F:\языки програмирования\Exampl007_Magic\bin\Debug\net6.0\Exampl007_Magic.deps.json
+F:\языки програмирования\Exampl007_Magic\bin\Debug\net6.0\Exampl007_Magic.runtimeconfig.json
+F:\языки програмирования\Exampl007_Magic\bin\Debug\net6.0\Exampl007_Magic.dll
+F:\языки програмирования\Exampl007_Magic\bin\Debug\net6.0\Exampl007_Magic.pdb
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.csproj.AssemblyReference.cache
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.AssemblyInfoInputs.cache
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.AssemblyInfo.cs
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.csproj.CoreCompileInputs.cache
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.dll
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\refint\Exampl007_Magic.dll
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.pdb
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\Exampl007_Magic.genruntimeconfig.cache
+F:\языки програмирования\Exampl007_Magic\obj\Debug\net6.0\ref\Exampl007_Magic.dll
